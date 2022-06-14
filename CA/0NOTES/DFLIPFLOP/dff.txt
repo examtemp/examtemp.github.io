@@ -1,0 +1,23 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity dff is
+    Port ( D,CLOCK : in  STD_LOGIC;
+           Q : out  STD_LOGIC);
+end dff;
+
+architecture Behavioral of dff is
+
+begin
+
+Process(D,CLOCK)
+begin
+	if(CLOCK' event and CLOCK='1')then
+		Q <= D;
+	end if;
+end process;
+
+end Behavioral;
+

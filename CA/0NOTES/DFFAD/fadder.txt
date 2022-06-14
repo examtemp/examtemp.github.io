@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity fadder is
+    Port ( A,B,CIN : in  STD_LOGIC;
+           SUM,COUT : out  STD_LOGIC);
+end fadder;
+
+architecture Behavioral of fadder is
+
+begin
+
+SUM <= A XOR B XOR CIN;
+COUT <= (CIN AND (A XOR B)) OR (A AND B);
+
+end Behavioral;
+

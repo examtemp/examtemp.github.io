@@ -1,0 +1,3 @@
+MODULE waluu
+SUBMODULE aluu
+INSTANCE UUT

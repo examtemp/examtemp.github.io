@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity hadder is
+    Port ( A,B : in  STD_LOGIC;
+           SUM,CARRY : out  STD_LOGIC);
+end hadder;
+
+architecture Behavioral of hadder is
+
+begin
+
+SUM <= A XOR B;
+CARRY <= A AND B;
+
+end Behavioral;
+

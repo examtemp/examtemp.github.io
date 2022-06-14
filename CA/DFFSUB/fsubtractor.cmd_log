@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/DFFSUB.ise" -intstyle ise -ifn fsubtractor.xst -ofn fsubtractor.syr

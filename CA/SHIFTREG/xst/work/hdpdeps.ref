@@ -1,0 +1,14 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd 2022/06/13.21:45:03 J.36
+EN work/dff 1655138428 FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/dff/Behavioral 1655138429 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd EN work/dff 1655138428
+FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd 2022/06/13.22:10:08 J.36
+EN work/sr 1655138456 FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/sr/Behavioral 1655138457 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd EN work/sr 1655138456 \
+      CP dff

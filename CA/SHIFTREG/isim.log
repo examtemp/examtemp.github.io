@@ -1,0 +1,37 @@
+ command line:
+   ./wsr_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  57949
+
+Mon Jun 13 22:11:18 2022
+
+Total Line Count : 102
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 157.082 Meg. 
+
+ Total Signals          : 21
+ Total Nets             : 6
+ Total Signal Drivers   : 6
+ Total Blocks           : 11
+ Total Primitive Blocks : 4
+ Total Processes        : 6
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 6
+ntrace select -o on -n /wsr/a 
+ntrace select -o on -n /wsr/clk 
+ntrace select -o on -n /wsr/b 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+isimrun 1000 ns 
+
+ Simulation time 0.09375 sec.
+
+ Estimate current memory usage : 169.8 Meg. 
+
+Mon Jun 13 22:12:03 2022
+

@@ -1,0 +1,5 @@
+vhdl work "../XORG/xg.vhd"
+vhdl work "../NOTG/ng.vhd"
+vhdl work "../ANDG/ag.vhd"
+vhdl work "hsubtractor.vhd"
+vhdl work "whsubtractor.vhw"

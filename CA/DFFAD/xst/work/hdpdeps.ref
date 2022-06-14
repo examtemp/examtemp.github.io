@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd 2022/06/13.20:34:18 J.36
+EN work/fadder 1655132717 FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/fadder/Behavioral 1655132718 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd EN work/fadder 1655132717

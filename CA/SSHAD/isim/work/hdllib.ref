@@ -1,0 +1,8 @@
+EN ag NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/../ANDG/ag.vhd sub00/vhpl02 1655134184
+EN whadder NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/whadder.vhw sub00/vhpl06 1655134188
+AR whadder testbench_arch C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/whadder.vhw sub00/vhpl07 1655134189
+AR ag behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/../ANDG/ag.vhd sub00/vhpl03 1655134185
+EN xg NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/../XORG/xg.vhd sub00/vhpl00 1655134182
+AR hadder behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/hadder.vhd sub00/vhpl05 1655134187
+AR xg behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/../XORG/xg.vhd sub00/vhpl01 1655134183
+EN hadder NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/hadder.vhd sub00/vhpl04 1655134186

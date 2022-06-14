@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd 2022/06/13.20:24:02 J.36
+EN work/xg 1655132106 FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/xg/Behavioral 1655132107 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd EN work/xg 1655132106

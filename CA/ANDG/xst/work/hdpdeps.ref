@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd 2022/06/13.20:14:41 J.36
+EN work/ag 1655131558 FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/ag/Behavioral 1655131559 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd EN work/ag 1655131558

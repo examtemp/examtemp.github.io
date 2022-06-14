@@ -1,0 +1,4 @@
+vhdl work "../ORG/og.vhd"
+vhdl work "../DFHAD/hadder.vhd"
+vhdl work "fadder.vhd"
+vhdl work "wfadder.vhw"

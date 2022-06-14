@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd 2022/06/13.20:21:28 J.36
+EN work/ng 1655131938 FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/ng/Behavioral 1655131939 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd EN work/ng 1655131938

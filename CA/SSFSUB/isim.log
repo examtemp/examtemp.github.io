@@ -1,0 +1,34 @@
+ command line:
+   ./wfsubtractor_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  57768
+
+Mon Jun 13 21:35:08 2022
+
+Total Line Count : 131
+
+ Elaboration time : 0.03125 sec.
+
+ Estimate current memory usage : 157.909 Meg. 
+
+ Total Signals          : 35
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 14
+ Total Primitive Blocks : 7
+ Total Processes        : 8
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 10
+ntrace select -o on -m / -l this 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.109375 sec.
+
+ Estimate current memory usage : 163.381 Meg. 
+
+Mon Jun 13 21:35:53 2022
+

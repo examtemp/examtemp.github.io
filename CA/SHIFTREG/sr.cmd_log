@@ -1,0 +1,3 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/SHIFTREG.ise" -intstyle ise -ifn sr.xst -ofn sr.syr
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/SHIFTREG.ise" -intstyle ise -ifn sr.xst -ofn sr.syr
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/SHIFTREG.ise" -intstyle ise -ifn sr.xst -ofn sr.syr

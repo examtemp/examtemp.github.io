@@ -1,0 +1,36 @@
+V3 19
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../ANDG/ag.vhd 2022/06/13.20:14:41 J.36
+EN work/ag 1655135438 FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../ANDG/ag.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/ag/Behavioral 1655135439 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../ANDG/ag.vhd EN work/ag 1655135438
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../NOTG/ng.vhd 2022/06/13.20:21:28 J.36
+EN work/ng 1655135436 FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../NOTG/ng.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/ng/Behavioral 1655135437 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../NOTG/ng.vhd EN work/ng 1655135436
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../XORG/xg.vhd 2022/06/13.20:24:02 J.36
+EN work/xg 1655135434 FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../XORG/xg.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/xg/Behavioral 1655135435 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../XORG/xg.vhd EN work/xg 1655135434
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd 2022/06/13.21:19:09 J.36
+EN work/hsubtractor 1655135440 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/hsubtractor/Behavioral 1655135441 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd \
+      EN work/hsubtractor 1655135440 CP xg CP ng CP ag
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/whsubtractor.vhw 2022/06/13.21:20:25 J.36
+EN work/whsubtractor 1655135442 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/whsubtractor.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/whsubtractor/testbench_arch 1655135443 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/whsubtractor.vhw \
+      EN work/whsubtractor 1655135442 CP hsubtractor

@@ -1,0 +1,10 @@
+EN whsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/whsubtractor.vhw sub00/vhpl08 1655135442
+EN ag NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../ANDG/ag.vhd sub00/vhpl04 1655135438
+EN hsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd sub00/vhpl06 1655135440
+AR hsubtractor behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd sub00/vhpl07 1655135441
+AR ng behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../NOTG/ng.vhd sub00/vhpl03 1655135437
+EN ng NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../NOTG/ng.vhd sub00/vhpl02 1655135436
+AR ag behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../ANDG/ag.vhd sub00/vhpl05 1655135439
+EN xg NULL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../XORG/xg.vhd sub00/vhpl00 1655135434
+AR whsubtractor testbench_arch C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/whsubtractor.vhw sub00/vhpl09 1655135443
+AR xg behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/../XORG/xg.vhd sub00/vhpl01 1655135435

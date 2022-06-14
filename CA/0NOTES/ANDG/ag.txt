@@ -1,0 +1,18 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity ag is
+    Port ( A,B : in  STD_LOGIC;
+           C : out  STD_LOGIC);
+end ag;
+
+architecture Behavioral of ag is
+
+begin
+
+C <= A AND B;
+
+end Behavioral;
+

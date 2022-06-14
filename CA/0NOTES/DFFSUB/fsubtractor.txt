@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity fsubtractor is
+    Port ( A,B,C : in  STD_LOGIC;
+           DIFF,BORROW : out  STD_LOGIC);
+end fsubtractor;
+
+architecture Behavioral of fsubtractor is
+
+begin
+
+DIFF <= A XOR B XOR C;
+BORROW <= ((NOT A) AND (B XOR C)) OR (B AND C);
+
+end Behavioral;
+

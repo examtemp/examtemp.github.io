@@ -1,0 +1,15 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd 2022/06/13.22:17:35 J.36
+EN work/aluu 1655139390 FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/aluu/Behavioral 1655139391 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd EN work/aluu 1655139390
+FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/waluu.vhw 2022/06/13.22:37:07 J.36
+EN work/waluu 1655140040 FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/waluu.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/waluu/testbench_arch 1655140041 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/waluu.vhw EN work/waluu 1655140040 \
+      CP aluu

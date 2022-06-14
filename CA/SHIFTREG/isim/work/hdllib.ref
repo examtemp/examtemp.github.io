@@ -1,0 +1,6 @@
+EN dff NULL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/../DFLIPFLOP/dff.vhd sub00/vhpl00 1655137747
+AR dff behavioral C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/../DFLIPFLOP/dff.vhd sub00/vhpl01 1655137748
+AR sr behavioral C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd sub00/vhpl03 1655138475
+EN sr NULL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd sub00/vhpl02 1655138474
+AR wsr testbench_arch C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/wsr.vhw sub00/vhpl05 1655138477
+EN wsr NULL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/wsr.vhw sub00/vhpl04 1655138476

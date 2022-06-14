@@ -1,0 +1,15 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd 2022/06/13.21:45:03 J.36
+EN work/dff 1655137034 FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/dff/Behavioral 1655137035 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/dff.vhd EN work/dff 1655137034
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/wdff.vhw 2022/06/13.21:49:22 J.36
+EN work/wdff 1655137173 FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/wdff.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wdff/testbench_arch 1655137174 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/wdff.vhw EN work/wdff 1655137173 \
+      CP dff

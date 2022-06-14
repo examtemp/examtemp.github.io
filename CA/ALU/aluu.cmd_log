@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/ALU/ALU.ise" -intstyle ise -ifn aluu.xst -ofn aluu.syr

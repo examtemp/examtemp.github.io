@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/NOTG/NOTG.ise" -intstyle ise -ifn ng.xst -ofn ng.syr

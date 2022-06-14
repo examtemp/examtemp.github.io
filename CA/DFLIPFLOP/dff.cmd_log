@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/DFLIPFLOP/DFLIPFLOP.ise" -intstyle ise -ifn dff.xst -ofn dff.syr

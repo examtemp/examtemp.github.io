@@ -1,0 +1,18 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/fsubtractor.vhd 2022/06/13.20:46:56 J.36
+EN work/fsubtractor 1655133548 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/fsubtractor.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/fsubtractor/Behavioral 1655133549 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/fsubtractor.vhd \
+      EN work/fsubtractor 1655133548
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/wfsubtractor.vhw 2022/06/13.20:48:59 J.36
+EN work/wfsubtractor 1655133550 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/wfsubtractor.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wfsubtractor/testbench_arch 1655133551 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/wfsubtractor.vhw \
+      EN work/wfsubtractor 1655133550 CP fsubtractor

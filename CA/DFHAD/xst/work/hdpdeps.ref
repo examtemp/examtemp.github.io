@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd 2022/06/13.20:28:18 J.36
+EN work/hadder 1655132351 FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/hadder/Behavioral 1655132352 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd EN work/hadder 1655132351

@@ -1,0 +1,2 @@
+vhdl work "../DFLIPFLOP/dff.vhd"
+vhdl work "sr.vhd"

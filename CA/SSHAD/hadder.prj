@@ -1,0 +1,3 @@
+vhdl work "../XORG/xg.vhd"
+vhdl work "../ANDG/ag.vhd"
+vhdl work "hadder.vhd"

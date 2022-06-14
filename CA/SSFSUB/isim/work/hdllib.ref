@@ -1,0 +1,12 @@
+EN ag NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../ANDG/ag.vhd sub00/vhpl04 1655136305
+AR ng behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../NOTG/ng.vhd sub00/vhpl03 1655136304
+EN ng NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../NOTG/ng.vhd sub00/vhpl02 1655136303
+EN og NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../ORG/og.vhd sub00/vhpl06 1655136307
+AR ag behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../ANDG/ag.vhd sub00/vhpl05 1655136306
+AR og behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../ORG/og.vhd sub00/vhpl07 1655136308
+EN xg NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../XORG/xg.vhd sub00/vhpl00 1655136301
+AR wfsubtractor testbench_arch C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/wfsubtractor.vhw sub00/vhpl11 1655136312
+EN wfsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/wfsubtractor.vhw sub00/vhpl10 1655136311
+EN fsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/fsubtractor.vhd sub00/vhpl08 1655136309
+AR xg behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/../XORG/xg.vhd sub00/vhpl01 1655136302
+AR fsubtractor behavioral C:/Users/HP/Desktop/Temp/Note/CA/SSFSUB/fsubtractor.vhd sub00/vhpl09 1655136310

@@ -1,0 +1,24 @@
+V3 11
+FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/../DFLIPFLOP/dff.vhd 2022/06/13.21:45:03 J.36
+EN work/dff 1655137747 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/../DFLIPFLOP/dff.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/dff/Behavioral 1655137748 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/../DFLIPFLOP/dff.vhd \
+      EN work/dff 1655137747
+FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd 2022/06/13.22:10:08 J.36
+EN work/sr 1655138474 FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/sr/Behavioral 1655138475 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/sr.vhd EN work/sr 1655138474 \
+      CP dff
+FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/wsr.vhw 2022/06/13.22:08:55 J.36
+EN work/wsr 1655138476 FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/wsr.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wsr/testbench_arch 1655138477 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SHIFTREG/wsr.vhw EN work/wsr 1655138476 \
+      CP sr

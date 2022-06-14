@@ -1,0 +1,34 @@
+ command line:
+   ./wxg_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  57620
+
+Mon Jun 13 20:25:40 2022
+
+Total Line Count : 32
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 158.147 Meg. 
+
+ Total Signals          : 6
+ Total Nets             : 3
+ Total Signal Drivers   : 3
+ Total Blocks           : 7
+ Total Primitive Blocks : 1
+ Total Processes        : 2
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 3
+ntrace select -o on -m / -l this 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.09375 sec.
+
+ Estimate current memory usage : 170.697 Meg. 
+
+Mon Jun 13 20:26:08 2022
+

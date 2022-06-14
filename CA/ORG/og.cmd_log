@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/ORG/ORG.ise" -intstyle ise -ifn og.xst -ofn og.syr

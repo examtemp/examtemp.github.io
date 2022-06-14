@@ -1,0 +1,29 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity hadder is
+    Port ( A,B : in  STD_LOGIC;
+           SUM,CARRY : out  STD_LOGIC);
+end hadder;
+
+architecture Behavioral of hadder is
+
+COMPONENT xg is
+    Port ( A,B : in  STD_LOGIC;
+           C : out  STD_LOGIC);
+end COMPONENT;
+
+COMPONENT ag is
+    Port ( A,B : in  STD_LOGIC;
+           C : out  STD_LOGIC);
+end COMPONENT;
+
+begin
+
+L1: xg PORT MAP(A,B,SUM);
+L2: ag PORT MAP(A,B,CARRY);
+
+end Behavioral;
+

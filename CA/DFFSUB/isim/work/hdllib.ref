@@ -1,0 +1,4 @@
+AR wfsubtractor testbench_arch C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/wfsubtractor.vhw sub00/vhpl03 1655133551
+EN wfsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/wfsubtractor.vhw sub00/vhpl02 1655133550
+EN fsubtractor NULL C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/fsubtractor.vhd sub00/vhpl00 1655133548
+AR fsubtractor behavioral C:/Users/HP/Desktop/Temp/Note/CA/DFFSUB/fsubtractor.vhd sub00/vhpl01 1655133549

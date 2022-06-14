@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd 2022/06/13.22:17:35 J.36
+EN work/aluu 1655139938 FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/aluu/Behavioral 1655139939 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ALU/aluu.vhd EN work/aluu 1655139938

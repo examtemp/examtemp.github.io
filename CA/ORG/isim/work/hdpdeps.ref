@@ -1,0 +1,14 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/og.vhd 2022/06/13.20:18:17 J.36
+EN work/og 1655131776 FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/og.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/og/Behavioral 1655131777 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/og.vhd EN work/og 1655131776
+FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/wog.vhw 2022/06/13.20:19:28 J.36
+EN work/wog 1655131778 FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/wog.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wog/testbench_arch 1655131779 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ORG/wog.vhw EN work/wog 1655131778 CP og

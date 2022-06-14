@@ -1,0 +1,3 @@
+MODULE whsubtractor
+SUBMODULE hsubtractor
+INSTANCE UUT

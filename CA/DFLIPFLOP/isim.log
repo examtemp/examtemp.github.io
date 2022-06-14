@@ -1,0 +1,36 @@
+ command line:
+   ./wdff_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  57895
+
+Mon Jun 13 21:49:37 2022
+
+Total Line Count : 46
+
+ Elaboration time : 0.015625 sec.
+
+ Estimate current memory usage : 157.086 Meg. 
+
+ Total Signals          : 6
+ Total Nets             : 3
+ Total Signal Drivers   : 3
+ Total Blocks           : 7
+ Total Primitive Blocks : 1
+ Total Processes        : 3
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 3
+ntrace select -o on -n /wdff/d 
+ntrace select -o on -n /wdff/clock 
+ntrace select -o on -n /wdff/q 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.078125 sec.
+
+ Estimate current memory usage : 162.726 Meg. 
+
+Mon Jun 13 21:51:25 2022
+

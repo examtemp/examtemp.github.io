@@ -1,0 +1,27 @@
+V3 15
+FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd 2022/06/13.20:14:41 J.36
+EN work/ag 1655135372 FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/ag/Behavioral 1655135373 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ag.vhd EN work/ag 1655135372
+FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd 2022/06/13.20:21:28 J.36
+EN work/ng 1655135370 FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/ng/Behavioral 1655135371 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/NOTG/ng.vhd EN work/ng 1655135370
+FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd 2022/06/13.21:19:09 J.36
+EN work/hsubtractor 1655135413 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/hsubtractor/Behavioral 1655135414 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/SSHSUB/hsubtractor.vhd \
+      EN work/hsubtractor 1655135413 CP xg CP ng CP ag
+FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd 2022/06/13.20:24:02 J.36
+EN work/xg 1655135368 FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/xg/Behavioral 1655135369 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd EN work/xg 1655135368

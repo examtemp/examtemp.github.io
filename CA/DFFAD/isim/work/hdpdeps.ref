@@ -1,0 +1,15 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd 2022/06/13.20:34:18 J.36
+EN work/fadder 1655132805 FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/fadder/Behavioral 1655132806 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/fadder.vhd EN work/fadder 1655132805
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/wfadder.vhw 2022/06/13.20:36:37 J.36
+EN work/wfadder 1655132807 FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/wfadder.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wfadder/testbench_arch 1655132808 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFFAD/wfadder.vhw EN work/wfadder 1655132807 \
+      CP fadder

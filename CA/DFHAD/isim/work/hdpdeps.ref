@@ -1,0 +1,15 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd 2022/06/13.20:28:18 J.36
+EN work/hadder 1655132385 FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/hadder/Behavioral 1655132386 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/hadder.vhd EN work/hadder 1655132385
+FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/whadder.vhw 2022/06/13.20:29:37 J.36
+EN work/whadder 1655132387 FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/whadder.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/whadder/testbench_arch 1655132388 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/DFHAD/whadder.vhw EN work/whadder 1655132387 \
+      CP hadder

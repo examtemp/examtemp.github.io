@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/ANDG/ANDG.ise" -intstyle ise -ifn ag.xst -ofn ag.syr

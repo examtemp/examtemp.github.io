@@ -1,0 +1,37 @@
+ command line:
+   ./waluu_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  58042
+
+Mon Jun 13 22:37:24 2022
+
+Total Line Count : 42
+
+ Elaboration time : 0.03125 sec.
+
+ Estimate current memory usage : 157.278 Meg. 
+
+ Total Signals          : 8
+ Total Nets             : 8
+ Total Signal Drivers   : 4
+ Total Blocks           : 7
+ Total Primitive Blocks : 1
+ Total Processes        : 2
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 8
+ntrace select -o on -n /waluu/a 
+ntrace select -o on -n /waluu/b 
+ntrace select -o on -n /waluu/sel 
+ntrace select -o on -n /waluu/res 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.15625 sec.
+
+ Estimate current memory usage : 165.278 Meg. 
+
+Mon Jun 13 22:43:12 2022
+

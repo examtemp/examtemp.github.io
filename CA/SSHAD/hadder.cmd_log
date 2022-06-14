@@ -1,0 +1,1 @@
+xst -ise "C:/Users/HP/Desktop/Temp/Note/CA/SSHAD/SSHAD.ise" -intstyle ise -ifn hadder.xst -ofn hadder.syr

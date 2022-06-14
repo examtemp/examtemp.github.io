@@ -1,0 +1,2 @@
+vhdl work "fadder.vhd"
+vhdl work "wfadder.vhw"

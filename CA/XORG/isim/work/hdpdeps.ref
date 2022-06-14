@@ -1,0 +1,15 @@
+V3 7
+FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/wxg.vhw 2022/06/13.20:25:20 J.36
+EN work/wxg 1655132137 FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/wxg.vhw \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/wxg/testbench_arch 1655132138 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/wxg.vhw EN work/wxg 1655132137 \
+      CP xg
+FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd 2022/06/13.20:24:02 J.36
+EN work/xg 1655132135 FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/xg/Behavioral 1655132136 \
+      FL C:/Users/HP/Desktop/Temp/Note/CA/XORG/xg.vhd EN work/xg 1655132135
